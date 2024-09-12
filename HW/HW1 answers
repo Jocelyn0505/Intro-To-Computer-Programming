@@ -1,0 +1,4 @@
+# Ask their name
+name = input
+input = "Jocelyn"
+print("What is your name?")
